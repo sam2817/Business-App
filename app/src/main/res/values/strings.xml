@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">RBC Small Business Manager</string>
+    <string name="what_industry">What industry is your business in?</string>
+    <string name="start_business_welcome">
+        Welcome to \n RBC\'s Small Business Manager.\n Here, we will help you plan out your business ventures.
+    </string>
+
+    <!--the following array is for testing purposes only. The app should connect to an online database-->
+    <string-array name="industry_array">
+        <item>Select an industry</item>
+        <item>Agriculture</item>
+        <item>Information Technology</item>
+        <item>Retail</item>
+    </string-array>
+
+    <string-array name="industry_null"></string-array>
+
+    <string-array name="industry_Agriculture">
+        <item>Agriculture</item>
+        <item>Revenue $10000</item>
+        <item>Expenses $8000</item>
+    </string-array>
+
+    <string-array name="industry_Information_Technology">
+        <item>IT</item>
+        <item>Revenue $15000</item>
+        <item>Expenses $9000</item>
+    </string-array>
+
+    <string-array name="industry_Retail">
+        <item>Retail</item>
+        <item>Revenue $9000</item>
+        <item>Expenses $5000</item>
+        <item>Employees 95</item>
+        <item>Turnover Rate 3 months</item>
+    </string-array>
+
+    <string name="headerIT">
+        Information Technology
+    </string>
+
+    <string name="headerAgriculture">
+        Agriculture
+    </string>
+
+    <string name="headerRetail">
+        Retail
+    </string>
+
+    <string name="content_IT">
+        Lorem ipsum dolor sit amet, arcu arcu vitae ac, aliquam proin ac erat pellentesque lectus iaculis, ac sit libero vestibulum venenatis, vel morbi ipsum. Ipsum odio arcu ut risus, mi velit. Elit feugiat tristique, a eget non ultricies turpis quam ac, pulvinar neque sed tempus laoreet euismod. Vestibulum felis non ipsum cras non, rutrum cras, nam ligula. Leo risus quisque augue, orci mauris et per, at nulla, non praesent aliquam wisi proin elementum proin. Pharetra nonummy interdum nunc, leo cras pellentesque purus, urna viverra accumsan, convallis cras, neque vitae ut eleifend. Wisi dolor velit mauris sed nibh urna, praesent massa est.
+    </string>
+
+    <string name="content_agriculture">
+        Lorem ipsum dolor sit amet, arcu arcu vitae ac, aliquam proin ac erat pellentesque lectus iaculis, ac sit libero vestibulum venenatis, vel morbi ipsum. Ipsum odio arcu ut risus, mi velit. Elit feugiat tristique, a eget non ultricies turpis quam ac, pulvinar neque sed tempus laoreet euismod. Vestibulum felis non ipsum cras non, rutrum cras, nam ligula. Leo risus quisque augue, orci mauris et per, at nulla, non praesent aliquam wisi proin elementum proin. Pharetra nonummy interdum nunc, leo cras pellentesque purus, urna viverra accumsan, convallis cras, neque vitae ut eleifend. Wisi dolor velit mauris sed nibh urna, praesent massa est.
+    </string>
+
+    <string name="content_retail">
+        Lorem ipsum dolor sit amet, arcu arcu vitae ac, aliquam proin ac erat pellentesque lectus iaculis, ac sit libero vestibulum venenatis, vel morbi ipsum. Ipsum odio arcu ut risus, mi velit. Elit feugiat tristique, a eget non ultricies turpis quam ac, pulvinar neque sed tempus laoreet euismod. Vestibulum felis non ipsum cras non, rutrum cras, nam ligula. Leo risus quisque augue, orci mauris et per, at nulla, non praesent aliquam wisi proin elementum proin. Pharetra nonummy interdum nunc, leo cras pellentesque purus, urna viverra accumsan, convallis cras, neque vitae ut eleifend. Wisi dolor velit mauris sed nibh urna, praesent massa est.
+    </string>
+</resources>
